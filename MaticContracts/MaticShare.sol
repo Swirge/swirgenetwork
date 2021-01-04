@@ -1,6 +1,6 @@
 pragma solidity ^0.4.13;
 
-contract BnbShare {
+contract MaticShare {
     
     uint public count;
     address[] public link; // if there are other BnbShare contracts
